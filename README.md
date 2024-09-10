@@ -37,6 +37,9 @@
 
 Если версия вашего проекта установлена как `3.8.40.221`, то перед билдом в GameAnalytics Settings версия `Build` будет обновлена до `3.8.40.221` во всех доступных конфигурациях (например, WebGL, Android и т.д.).
 
+![icon](https://github.com/user-attachments/assets/12e13e2f-375a-458b-b74b-e066df13be5d)
+
+
 ## Автор
 
 Автор скрипта: **RimuruDev**  
